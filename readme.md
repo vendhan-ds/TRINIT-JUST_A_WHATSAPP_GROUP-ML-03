@@ -4,7 +4,7 @@
 
 1. Image uploading, wherein the model analyzes and describes entities within the uploaded image.
 2. Seamless image snapping from an embedded map, wherein the model analyzes and describes entities within the snapped zone.
-3. Acheived a one-gram Bleu score of 0.59 and 0.47 for valid and test data respectively. (Refer the bottom of the main jupyter notebook to check the scores)
+3. Acheived a one-gram Bleu score of 0.59 for valid data. (Refer the bottom of the main jupyter notebook to check the scores)
 
 ## Architecture:
 
