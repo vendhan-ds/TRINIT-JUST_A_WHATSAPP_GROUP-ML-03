@@ -1,0 +1,2 @@
+body{position:relative}#leafletMapid,body,html{height:500px;width:1000px;margin:0;padding:0}#leafletMapid{z-index:0}.container{display:flex;justify-content:center;align-items:center;gap:1rem;width:100vw}.generative{width:100%;min-height:80vh;max-height:80vh;border:1px solid #000;overflow-y:auto;padding:2rem}.generative canvas{width:30%}
+/*# sourceMappingURL=/styles.736062f2.css.map */
