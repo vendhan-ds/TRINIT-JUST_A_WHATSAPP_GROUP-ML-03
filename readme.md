@@ -40,3 +40,11 @@ https://www.canva.com/design/DAF_ELVzaSI/sWfTWU4cVzJ6lmXu3i3vDw/edit?utm_content
 https://drive.google.com/drive/folders/13zd4M_MpmA3jupfCbdzu3zFM0i6QnyZ3?usp=sharing
 
     - This is the video link for the demo
+
+# Application Demo
+![WhatsApp Image 2024-03-10 at 08 21 07](https://github.com/vendhan-ds/TRINIT-JUST_A_WHATSAPP_GROUP-ML-03/assets/104243394/f5417470-da85-4914-973f-48558049ef6d)
+![WhatsApp Image 2024-03-10 at 08 20 47](https://github.com/vendhan-ds/TRINIT-JUST_A_WHATSAPP_GROUP-ML-03/assets/104243394/49f74ffd-9f53-4602-8ff9-9b052b76db49)
+
+![WhatsApp Image 2024-03-10 at 08 21 29](https://github.com/vendhan-ds/TRINIT-JUST_A_WHATSAPP_GROUP-ML-03/assets/104243394/10a4fea1-2e77-401c-b9a6-908c720f3839)
+
+
